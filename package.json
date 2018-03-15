@@ -23,5 +23,10 @@
   "bugs": {
     "url": "https://github.com/hivaids2512/node-environment-report/issues"
   },
-  "homepage": "https://github.com/hivaids2512/node-environment-report#readme"
+  "homepage": "https://github.com/hivaids2512/node-environment-report#readme",
+  "dependencies": {
+    "diskusage": "^0.2.4",
+    "os-utils": "0.0.14",
+    "systeminformation": "^3.37.7"
+  }
 }
